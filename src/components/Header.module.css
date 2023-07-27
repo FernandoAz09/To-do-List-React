@@ -37,9 +37,11 @@
 .newTaskForm input::placeholder {
     color: var(--gray-300);
 }
+
 .newTaskForm input:focus {
-	border: 1px solid var(--blue-dark);
+    border: 1px solid var(--blue-dark);
 }
+
 .newTaskForm button {
     height: 100%;
     padding: 0 1rem;
@@ -57,4 +59,12 @@
 
 .newTaskForm button:hover {
     box-shadow: 0px 0px 8px var(--blue-dark);
+}
+
+@media screen and (max-width:400px){
+
+    .newTaskForm,
+    .newTaskForm button {
+        padding: 0 .5rem;
+    }
 }
