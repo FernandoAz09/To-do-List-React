@@ -29,13 +29,13 @@ Nele pude aprender e fixar os conceitos do React:
 Clone o projeto
 
 ```bash
-  git clone https://github.com/FernandoAz09/Ignite-React/tree/main/React/desafios/desafio-01-praticando-conceitos-TO-DO-LIST
+  git clone https://github.com/FernandoAz09/To-do-List-React
 ```
 
 Entre no diretório do projeto
 
 ```bash
-  cd desafio-01-praticando-conceitos-TO-DO-LIST
+  cd To-do-List-React
 ```
 
 Certifique-se que o ```package.json ```foi clonado junto com o restante dos arquivos e Instale com npm
