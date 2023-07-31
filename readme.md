@@ -24,6 +24,11 @@ Nele pude aprender e fixar os conceitos do React:
 - TypeScript
 - CSS3
 
+## Deploy
+#Projeto publicado em:
+- [https://todo-react-fernandoaz.netlify.app/](https://todo-react-fernandoaz.netlify.app/)
+
+
 ## Rodando localmente
 
 Clone o projeto
